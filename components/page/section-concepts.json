@@ -2,8 +2,7 @@
   "collectionName": "components_page_section_concepts",
   "info": {
     "name": "sectionConcepts",
-    "icon": "align-justify",
-    "description": ""
+    "icon": "align-justify"
   },
   "options": {},
   "attributes": {
@@ -14,8 +13,7 @@
     "concepts": {
       "type": "component",
       "repeatable": true,
-      "component": "page.concepts",
-      "required": true
+      "component": "page.concepts"
     }
   }
 }

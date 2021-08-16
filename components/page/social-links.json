@@ -2,8 +2,7 @@
   "collectionName": "components_page_social_links",
   "info": {
     "name": "socialLinks",
-    "icon": "network-wired",
-    "description": ""
+    "icon": "network-wired"
   },
   "options": {},
   "attributes": {
@@ -13,7 +12,7 @@
         "Github",
         "Twitter",
         "Dribbble",
-        "Linkedin",
+        "LinkedIn",
         "Facebook"
       ],
       "default": "Twitter",
