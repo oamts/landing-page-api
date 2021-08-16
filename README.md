@@ -1,4 +1,4 @@
-# React Avançado - Landing Page API
+# React Avançado - API
 
 This is the API to create the [React Avançado Landing Page](https://reactavancado.com.br/).
 
