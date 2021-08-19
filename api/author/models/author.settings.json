@@ -2,11 +2,13 @@
   "kind": "collectionType",
   "collectionName": "authors",
   "info": {
-    "name": "author"
+    "name": "author",
+    "description": ""
   },
   "options": {
     "increments": true,
-    "timestamps": true
+    "timestamps": true,
+    "draftAndPublish": false
   },
   "pluginOptions": {},
   "attributes": {
@@ -33,6 +35,10 @@
       "repeatable": true,
       "component": "page.social-links",
       "required": false
+    },
+    "description": {
+      "type": "text",
+      "required": true
     }
   }
 }
